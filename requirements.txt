@@ -3,3 +3,4 @@ uvicorn
 python-dotenv
 fpdf
 PyPDF2
+schedule
